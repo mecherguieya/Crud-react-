@@ -1,0 +1,36 @@
+{
+  "Movies": [
+    {
+      "id": 1,
+      "title": "Greyhound",
+      "year": "2020",
+      "img": "placeholder.jpg",
+      "genre": "drama",
+      "description": "Le lorem ipsum est, en imprimerie…… "
+    },
+    {
+      "id": 2,
+      "title": "Green Book",
+      "year": "2018",
+      "img": "placeholder.jpg",
+      "genre": "comedy",
+      "description": "Le lorem ipsum est, en imprimerie……."
+    },
+    {
+      "id": 3,
+      "title": "SAW",
+      "year": "2024",
+      "img": "placeholder.jpg",
+      "genre": "Horror",
+      "description": "hhhhhhhhhhhhhhhhhhhhhhhhhh"
+    },
+    {
+      "id": 4,
+      "title": "chouflihal",
+      "year": "2024",
+      "img": "placeholder.jpg",
+      "genre": "Horror",
+      "description": "hhhhhhhhhhhhhhhhhhhhhhhhhh"
+    }
+  ]
+}
